@@ -1,3 +1,5 @@
-let test = () => console.log('Hello World');
+import {person, sayHello} from './lib';
 
-test();
+console.log(person.name);
+
+console.log(sayHello('Holly'));

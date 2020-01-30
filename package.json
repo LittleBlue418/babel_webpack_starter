@@ -1,0 +1,26 @@
+{
+  "name": "babel_webpack_starter",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000b\u0000a\u0000b\u0000e\u0000l\u0000_\u0000w\u0000e\u0000b\u0000p\u0000a\u0000c\u0000k\u0000_\u0000s\u0000t\u0000a\u0000r\u0000t\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleBlue418/babel_webpack_starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleBlue418/babel_webpack_starter/issues"
+  },
+  "homepage": "https://github.com/LittleBlue418/babel_webpack_starter#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.41.5",
+    "webpack-server": "^0.1.2"
+  }
+}
